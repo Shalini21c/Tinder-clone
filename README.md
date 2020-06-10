@@ -8,4 +8,4 @@ The code is divided into three parts:
 * gui helper part (for the user interface)
 * tinder part (for handling the user interraction with other two interfaces)
 
-**NOTE: This code can be modified as per the requirements. And many extra functions can be added which are not present in this code.
+**NOTE: I'm a newbie. This code can be modified as per the user requirement. And many extra function can also be added, which are not included in this code.
